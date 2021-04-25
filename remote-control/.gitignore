@@ -1,0 +1,37 @@
+# Compiled binaries
+*.bin
+*.elf
+*.hex
+*.map
+*.cdb
+*.ihx
+*.lk
+*.lst
+*.rel
+*.rst
+*.sym
+*.asm
+
+
+# Trash
+*.bak
+
+netbeans/
+nbproject/
+
+# IAR project "Debug" directory
+Debug/
+
+# IAR project "Release" directory
+Release/
+
+# IAR project settings directory
+settings/
+
+# IAR backup files
+Backup*
+
+# IAR .dep files
+*.dep
+/uuid.h
+/test.c
